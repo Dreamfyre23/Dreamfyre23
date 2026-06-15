@@ -1,48 +1,193 @@
-# Hi there, I'm Dinesh Ram S P 👋
+<!-- ========================================= -->
+<!-- HEADER BANNER -->
+<!-- ========================================= -->
 
-🎓 **MTech in Artificial Intelligence** @ Amrita Vishwa Vidyapeetham (2024-2026)  
-💻 **Android Developer | AI Enthusiast | Full Stack Developer**  
-📍 Dindigul, Tamil Nadu, India  
+<p align="center">
+  <img src="assets/banner.gif" width="100%">
+</p>
 
-## 🔧 Technical Skills
-**Mobile Development**  
-📱 Android Studio | Flutter | Kotlin | Java | React Native  
+<h1 align="center">Hi 👋, I'm Dinesh Ram S P</h1>
 
-**AI/ML**  
-🤖 Machine Learning | Deep Learning | Python  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=MTech+Artificial+Intelligence+Student;Computer+Vision+Researcher;Deep+Learning+Enthusiast;Building+AI+for+Real+World+Problems" />
+</p>
 
-**Web Development**  
-🌐 ReactJS | HTML/CSS | JavaScript | REST API  
-
-**Other Tech**  
-🔌 Embedded Systems (IoT) | C/C++ | Networking (CCNA)  
-
-## 🏆 Certifications
-- **Meta Android Developer Professional** (Coursera)  
-- **Infosys Springboard** (Python, DBMS, DSA)  
-- **Cisco CCNA** (Networking & Security)  
-- **NPTEL** (Problem Solving in C, Python)  
-
-## 🚀 Featured Projects
-1. **Smart Water IoT System**  
-   - Real-time river water quality monitoring with ML predictions  
-   - Tech: IoT, Adafruit Dashboard, Machine Learning  
-
-2. **E-Braille**  
-   - Assistive device for visually impaired using 555 Timer IC & Ultrasonic Sensor  
-
-3. **Smart Glove**  
-   - Obstacle detection glove using PIC Microcontroller  
-
-[View All Projects →](https://github.com/Dreamfyre23?tab=repositories)
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshramsp)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dineshramsp@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://dineshramsp.wixsite.com/portfolio)  
+<p align="center">
+  <a href="https://github.com/Dreamfyre23">
+    <img src="https://komarev.com/ghpvc/?username=Dreamfyre23&label=Profile+Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-⚡ **Fun Fact:** I love building hardware+software solutions to solve real-world problems!  
-📊 **GitHub Stats:**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamfyre23&show_icons=true&theme=radical)
+# 🚀 About Me
+
+🎓 MTech in Artificial Intelligence at Amrita Vishwa Vidyapeetham
+
+🧠 Passionate about:
+
+- Artificial Intelligence
+- Deep Learning
+- Computer Vision
+- Explainable AI (XAI)
+- Generative AI
+
+🌱 Currently:
+
+- Preparing for placements
+- Working on AI research
+- Building practical AI solutions
+- Exploring Agentic AI systems
+
+📍 Dindigul, Tamil Nadu, India
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+## Cloud
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+## Development
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🔬 Featured Projects
+
+## 🩺 Multi-Class Oral Cancer Classification
+
+- Developed a multi-class oral cancer classification pipeline
+- U-Net based segmentation
+- EfficientNetV2 classification
+- Grad-CAM explainability
+- PyTorch implementation
+
+🔗 Repository: [Add Repository Link]
+
+---
+
+## 🌍 Land Cover Detection Using Deep Learning
+
+- SpectralFormer based classification
+- Multispectral satellite imagery
+- Google Cloud deployment
+- Interactive web interface
+
+🔗 Repository: [Add Repository Link]
+
+---
+
+## 💧 Smart Water Quality Monitoring System
+
+- IoT-based monitoring system
+- ESP32 and sensors
+- XGBoost prediction model
+- Flask dashboard
+- MQTT communication
+
+🔗 Repository: [Add Repository Link]
+
+---
+
+# 📄 Research
+
+### Published / Ongoing Research
+
+📝 Multi-Class Oral Cancer Classification Using Deep Learning
+
+Research focused on improving oral cancer diagnosis using segmentation, classification and explainable AI techniques.
+
+---
+
+# 📜 Certifications
+
+- Meta Android Developer Professional Certificate
+- Cisco Certified Network Associate (CCNA)
+- NPTEL Problem Solving Through Programming in C
+- NPTEL Joy of Computing Using Python
+- Infosys Springboard Data Structures and Algorithms Using Python
+- Infosys Springboard Database Management Systems
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dreamfyre23&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamfyre23&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamfyre23&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamfyre23&theme=tokyo-night)](https://github.com/Dreamfyre23)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Dreamfyre23&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/dineshramsp">
+LinkedIn
+</a>
+
+|
+
+<a href="https://dreamfyre23.github.io">
+Portfolio
+</a>
+
+|
+
+<a href="mailto:dineshramsp@gmail.com">
+Email
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building AI systems that solve real-world problems, from healthcare and satellite imagery analysis to IoT-powered smart monitoring solutions.

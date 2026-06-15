@@ -167,23 +167,17 @@ Research focused on improving oral cancer diagnosis using segmentation, classifi
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/dineshramsp">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/dineshramsp">
-LinkedIn
-</a>
+  <a href="https://dreamfyre23.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-|
-
-<a href="https://dreamfyre23.github.io">
-Portfolio
-</a>
-
-|
-
-<a href="mailto:dineshramsp@gmail.com">
-Email
-</a>
-
+  <a href="mailto:dineshramsp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---

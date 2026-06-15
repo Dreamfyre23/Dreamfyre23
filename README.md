@@ -60,8 +60,8 @@
 
 ## Cloud
 
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E)
 
 ## Development
 
@@ -70,7 +70,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -84,7 +84,7 @@
 - Grad-CAM explainability
 - PyTorch implementation
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [Link will be added soon...]
 
 ---
 
@@ -95,7 +95,7 @@
 - Google Cloud deployment
 - Interactive web interface
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [Link will be added soon...]
 
 ---
 
@@ -107,7 +107,7 @@
 - Flask dashboard
 - MQTT communication
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [Link will be added soon...]
 
 ---
 
@@ -155,12 +155,6 @@ Research focused on improving oral cancer diagnosis using segmentation, classifi
 # 📊 Contribution Graph
 
 [![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamfyre23&theme=tokyo-night)](https://github.com/Dreamfyre23)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Dreamfyre23&theme=tokyonight)
 
 ---
 

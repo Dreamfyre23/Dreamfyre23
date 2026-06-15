@@ -113,9 +113,9 @@
 
 # 📄 Research
 
-### Published / Ongoing Research
+### Paper accepted in the conference (ICCCSP 2026)
 
-📝 Multi-Class Oral Cancer Classification Using Deep Learning
+📝 Multi-Class Oral Cancer Classification Using RfficientNetV2
 
 Research focused on improving oral cancer diagnosis using segmentation, classification and explainable AI techniques.
 

@@ -173,9 +173,3 @@ Research focused on improving oral cancer diagnosis using segmentation, classifi
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building AI systems that solve real-world problems, from healthcare and satellite imagery analysis to IoT-powered smart monitoring solutions.
